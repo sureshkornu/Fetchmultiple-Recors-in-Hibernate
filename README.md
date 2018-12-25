@@ -1,0 +1,1 @@
+# Fetchmultiple-Recors-in-Hibernate
